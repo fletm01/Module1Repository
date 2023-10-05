@@ -18,4 +18,3 @@ elif maths_operation == '*':
 else:
     print (first_number / second_number)
 
-# test comment 2
